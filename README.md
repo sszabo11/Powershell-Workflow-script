@@ -13,18 +13,18 @@ A PowerShell script designed to automate your terminal workspace setup by automa
 
 ## 📋 Requirements
 
-- **PowerShell**: Ensure you have PowerShell installed on your machine. The script is tested on PowerShell 7, but it may work on earlier versions as well.
+- **PowerShell**: Ensure you have PowerShell installed on your machine. This only workis in powershell.
 - **Windows Terminal**: The script is designed to work with the Windows Terminal app.
 
 ## 📦 Installation
 
-1. **Clone the Repository 📂**:
+1. **📂 Clone the Repository**:
 
    ```bash
    git clone https://github.com/sszabo11/Powershell-Workflow-script.git
    cd Powershell-Workflow-script
    ```
-2. **Edit PowerShell config 📜**:
+2. **📜 Edit PowerShell config**:
    - In the terminal write:
      ```powershell
      notepad $PROFILE
@@ -46,4 +46,7 @@ A PowerShell script designed to automate your terminal workspace setup by automa
 
 
 
-
+## 🗒️ Note: 
+- This is only a quick script I created for myself so I can use neovim in the top pane and terminal in the bottom pane
+- Feel free to edit this to your liking
+- And I am no powershell expert, this was my first time writing a powershell script
