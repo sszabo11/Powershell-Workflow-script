@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/ee849350-16b2-47d4-95f3-dea545f4ecfb
+
 # ⚡ Terminal Workspace Automator
 
 A PowerShell script designed to automate your terminal workspace setup by automatically creating terminal windows, splitting panes, and resizing them to boost your efficiency.
@@ -41,3 +43,7 @@ A PowerShell script designed to automate your terminal workspace setup by automa
         - Type `Ctrl+S` and make sure you save it into `C:\Users\<YourUsername>\Documents\WindowsPowerShell`
   3. **Now go back into the terminal and write `startup`**
      - You should now see it doing its thing!!
+
+
+
+
